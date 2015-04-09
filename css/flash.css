@@ -1,0 +1,31 @@
+.flash_information, .flash_success, .flash_warning, .flash_error {
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.flash_information i, .flashy_success i, .flashy_warning i, .flashy_error i {
+    margin-top: 10px;
+    font-size: 2em;
+    vertical-align: middle;
+} 
+
+.flash_information {
+    color: #000;
+    background-color: #cccccc;
+}
+
+.flash_warning {
+    color: #cc9900;
+    background-color: #ffff99;
+}
+
+.flash_success {
+    color: #339900;
+    background-color: #ccffcc;
+}
+
+.flash_error {
+    color: #990000;
+    background-color: #ffcccc;
+}
