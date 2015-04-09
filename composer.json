@@ -1,5 +1,5 @@
 {
-    "name": "flash/flash",
+    "name": "sh/flash",
     "type": "library",
     "description": "Plugin to display flash messages.",
     "keywords": ["flash", "messages", "education"],
