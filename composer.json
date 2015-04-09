@@ -1,0 +1,25 @@
+{
+    "name": "flash/flash",
+    "type": "library",
+    "description": "Plugin to display flash messages.",
+    "keywords": ["flash", "messages", "education"],
+    "homepage": "https://github.com/semirhuduti",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Semir Huduti",
+            "email": "semir.huduti@gmail.com",
+            "homepage": "https://github.com/semirhuduti",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4":
+                {
+                    "flash\\": "src/"
+                }
+    }
+}
