@@ -28,3 +28,4 @@ To use the the flash messages add the following line to your project.
 
 This will generate HTML-code that will be displayed in the view.
 
+The style of the flash messages can be changed in the flash.css file.
