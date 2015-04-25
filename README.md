@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/semirhuduti/FlashMessage.svg?branch=master)](https://travis-ci.org/semirhuduti/FlashMessage)
-
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/semirhuduti/FlashMessage/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/semirhuduti/FlashMessage/?branch=master)
+[![Build Status](https://travis-ci.org/semirhuduti/FlashMessage.svg?branch=master)](https://travis-ci.org/semirhuduti/FlashMessage)[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/semirhuduti/FlashMessage/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/semirhuduti/FlashMessage/?branch=master)
 
 # FlashMessage
 
