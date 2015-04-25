@@ -1,5 +1,8 @@
 [![Build Status](https://travis-ci.org/semirhuduti/FlashMessage.svg?branch=master)](https://travis-ci.org/semirhuduti/FlashMessage)
 
++[![Build Status](https://travis-ci.org/semirhuduti/FlashMessage.svg?branch=master)](https://travis-ci.org/semirhuduti/FlashMessage)
++
+
 # FlashMessage
 
 This module is used to display flash messages in your project.
