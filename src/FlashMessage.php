@@ -1,6 +1,6 @@
 <?php
 
-namespace Anax\FlashMessage;
+namespace sh\FlashMessage;
 
 class FlashMessage {
 
@@ -82,7 +82,7 @@ class FlashMessage {
                 $type = $flash['type'];
                 $message = $flash['message'];
                 $messages .= "<div class='flash_{$type}'>\n";
-                $messages .= "  " . $message . "\n</div>\n";
+                $messages .= $message . "\n</div>\n";
             }
 // done, clear messages
             $_SESSION['flash'] = null;
